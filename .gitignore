@@ -1,0 +1,13 @@
+*.xml
+Software/SudokuSolver/nbproject/Package-Debug.bash
+*.bash
+Software/SudokuSolver/nbproject/Makefile-Release.mk
+*.mk
+Software/SudokuSolver/build/Debug/MinGW-Windows/src/sudoku_simple_solver.o
+*.o
+Software/SudokuSolver/build/Debug/MinGW-Windows/src/sudoku_guesser.o.d
+*.d
+Software/SudokuSolver/Makefile
+*.exe
+Software/SudokuSolver/nbproject/private/launcher.properties
+*.inc
